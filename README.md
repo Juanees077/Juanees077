@@ -7,7 +7,7 @@ I’m from Colombia.
 
 Interests
 
-I’m passionate about web development, mobile application development, and artificial intelligence.
+I’m passionate about web development, and artificial intelligence.
 I enjoy exploring new technologies and applying them to solve real-world problems.
 
 Learning
