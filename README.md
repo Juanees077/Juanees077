@@ -2,9 +2,8 @@
 
 About Me
 
-I’m currently in my sixth semester of Software Engineering at the University Cooperativa de Colombia.
-I’m from Colombia.
-
+I am currently studying the seventh semester of Software Engineering at the Universidad Cooperativa de Colombia.
+I am from Colombia.
 Interests
 
 I’m passionate about web development, and artificial intelligence.
