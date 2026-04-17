@@ -1,29 +1,34 @@
 👋 Hi, I’m @Juanees077
 
 About Me
+Ingenierío de Software | Analista de Procesos | Optimización y Automatización | Data-Driven | Excel, Power BI, KPIs
 
-I am currently studying the seventh semester of Software Engineering at the Universidad Cooperativa de Colombia.
-I am from Colombia.
-Interests
 
-I’m passionate about web development, and artificial intelligence.
-I enjoy exploring new technologies and applying them to solve real-world problems.
 
-Learning
+Enfocado en el análisis, diseño y optimización de procesos operativos y tecnológicos. Cuento con experiencia liderando proyectos donde he identificado oportunidades de mejora, automatizado flujos de trabajo y generado eficiencias medibles en organizaciones.
 
-I’m currently diving deeper into advanced topics in software engineering, including machine learning, cloud computing, and DevOps practices.
-I’m also sharpening my skills in programming languages and frameworks such as Python, JavaScript, React, and Node.js through real-world projects.
+ 
 
-Collaboration
+He trabajado en la estructuración de procesos, definición de indicadores (KPIs) y análisis de datos utilizando herramientas como Excel y Power BI, lo que me permite tomar decisiones basadas en información y no en suposiciones.
 
-I’m looking to collaborate on open-source projects and innovative software solutions.
-I’m especially interested in web development, mobile apps, and AI-driven projects. Feel free to reach out if you have any opportunities for collaboration!
+ 
 
-Contact
+Uno de mis principales logros ha sido la automatización de procesos de atención al cliente mediante inteligencia artificial, logrando reducir la carga operativa en un 40% y aumentar las conversiones en un 25%.
 
-You can contact me via email at juanees077@gmail.com or connect with me on LinkedIn or GitHub.
+ 
 
-Additional Info
+Me interesa aportar en roles donde pueda optimizar procesos, mejorar la eficiencia organizacional y generar impacto real en los resultados del negocio.
 
-Fun fact: I love hiking and exploring new places in my free time.
-I believe that a good hike can spark great ideas for my coding projects!
+
+
+  Habilidades clave:
+
+ • Análisis y mejora de procesos
+
+ • Automatización (n8n)
+
+ • Excel avanzado y Power BI
+
+ • Gestión de proyectos
+
+ • KPIs y métricas de desempeño
