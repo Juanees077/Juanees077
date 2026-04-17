@@ -1,6 +1,5 @@
 👋 Hi, I’m @Juanees077
 
-About Me
 Ingenierío de Software | Analista de Procesos | Optimización y Automatización | Data-Driven | Excel, Power BI, KPIs
 
 
